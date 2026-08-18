@@ -8,8 +8,9 @@ int main(){
 
 unsigned Leer(std::istream& istream){
     
-    unsigned x;
+    unsigned x; //Declaro una variable que tomará el valor que extraemos. No vale la pena inicializar porque enseguida la sobreescribimos
     istream >> x;
     
 return x;
 }
+
