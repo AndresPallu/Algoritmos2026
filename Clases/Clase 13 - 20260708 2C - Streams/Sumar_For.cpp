@@ -15,6 +15,5 @@ unsigned Sumar(std::istream& in){ //No debo agregar otro parámetro ya que queda
         in >> x;
         suma += x;
     }
-
 return suma;
 }
