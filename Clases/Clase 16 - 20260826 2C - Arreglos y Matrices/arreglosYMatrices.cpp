@@ -74,4 +74,4 @@ arrayVentas.at(1).at(1).at(5) = 111111;
 mostrarArrayDeVentas(arrayVentas);
 }
 
-std::array<std::array<unsigned, 12>, 3> ventasPorVendedor;
+//std::array<std::array<unsigned, 12>, 3> ventasPorVendedor;
