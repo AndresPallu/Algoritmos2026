@@ -26,7 +26,7 @@ using Lista = ListaEnlazada;
 
 std::string GetComoCSV (const Lista&);
 unsigned GetLongitud(const Lista&);
-void Agregar(Lista&, int i);
+void Agregar(Lista&, int);
 
 
 int main(){
