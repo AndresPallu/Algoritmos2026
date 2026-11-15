@@ -1,4 +1,4 @@
-# Algoritmos y Estructuras de Datos
+# Algoritmos y Estructuras de Datos | K1053
 
 Repositorio con material de estudio, apuntes y resoluciones de la materia Algoritmos y Estructuras de Datos. 
 
