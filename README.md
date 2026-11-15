@@ -4,9 +4,9 @@ Repositorio con material de estudio, apuntes y resoluciones de la materia Algori
 
 El objetivo de este repositorio es pasar a limpio los conceptos teóricos y prácticos de la cursada. En particular del segundo cuatrimestre. 
 
-## 🛠️ Tecnologías y Conceptos Abordados
+## Temas
 
-*   **Lenguaje:** C++ moderno.
+*   **Lenguaje:** C++.
 *   **Conceptos Clave:**
     *   Streams.
     *   Estructura de control For.
@@ -18,7 +18,7 @@ El objetivo de este repositorio es pasar a limpio los conceptos teóricos y prá
 *   **Temas informarles de clase que hacen a lo profesional.**
 
 
-## 👨‍💻 Autor
+## Autor
 
 *   **Andrés**
 *   **Legajo:** 156.368-3
